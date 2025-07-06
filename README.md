@@ -6,7 +6,16 @@ Let's think about this problem from first principles.
 
 ## LLM problems - day 2
 
-To integrate from the second day.
+Classical Machine Learning can be compared to a look-up table. This is limiting the reasoning to the training dataset. 
+
+Current system are not optimizing towards thinking, they are only modeling existing knowledge. 
+Giving an answer that a human likes does not solve creativity. 
+Learning from your own mistakes allows you to achieve a goal as a human. A language model does not try and fail to solve a problem. It what it learns and tris and fails is to model. 
+
+Key insights into thinking are found in:
+- The working memory. 
+- Working with abstractions, building abstractions. 
+- Asking the right questions.
 
 ## LLM problems - day 3
 Asking for clarification is a problem for genAI sometimes not asking enough, sometimes asking too much for clarifications. The underlying problem is how the system is treating ambiguity of language. 
@@ -17,13 +26,3 @@ Hallucinations - Confidently answering wrong.
 - Wrong answers are fine because they are better than no answer in solving a problem. 
 - SOMETIMES You can iterate on top of the wrong answer to arrive eventually to the correct answer.
 	- On difficult complex problems can get stuck, more details and context does not unblock the model, and iterations cannot continue progress.
-
-
-
----
-
-# TODO
-- Upload videos
-- Push changes on github
-- Integrate content from video 2 in the files from github
-- Combine day 3 with 2 after integrate 2 from video content
