@@ -1,55 +1,38 @@
 [Petre's AI Project - YouTube](https://www.youtube.com/@P.A.I.P)
 
-### Goal: AGI - Artificial General Intelligence - day 1
+[[Everyday Logs]]
 
-Current systems: Empirical, Alchemy, No clear Explanation of how the system works. We don't understand how current systems work. - Not sustainable. 
+## Goal
+- Revolutionize AI by thinking from first principles
+- Eliminate the Problems, Limitations of current systems
 
-Let's think about this problem from first principles. 
+## Limitations & Problems of existing systems
+- The capability of the system is bounded by the training dataset
+	- Addressed a little bit by in context learning, but if the problem is too complex the system breaks
+- Creativity is limited
+- Trying new ways to approach a problem, never tried by anyone
 
-## LLM problems - day 2
+## Theories about how revolutionize
+Working memory of humans is very limited, but context window, is very large for LLMs. Humans have developed other skills to deal with difficult problems which require a larger working memory. Those other skills, are like:
+- abstraction allow us to solve problems which LLMs can't solve, 
+	- deconstruction of the problem into smaller problems which are easier to solve
+	- Analogy with - Chain of Thought 
+- A problem can be solved in multiple ways ( Analogy with - Tree of Thought)
+Theory: Maybe our limitations have pushed us to develop skills in problem solving which LLMs don't have by default
 
-Classical Machine Learning can be compared to a look-up table. This is limiting the reasoning to the training dataset. 
 
-Current system are not optimizing towards thinking, they are only modeling existing knowledge. 
-Giving an answer that a human likes does not solve creativity. 
-Learning from your own mistakes allows you to achieve a goal as a human. A language model does not try and fail to solve a problem. It what it learns and tries and fails is to model. 
+PDF - structure
+- P = Problem / Pain , Goal, Need, Want
+- D = Details / Data , Context, Constraints, Limitations, Prerequisites
+- F = Fix, Solution, Value, Implementation
 
-Key insights into thinking are found in:
-- The working memory. 
-- Working with abstractions, building abstractions. 
-- Asking the right questions.
-
-## LLM problems - day 3
-Asking for clarification is a problem for GenAI sometimes not asking enough, sometimes asking too much for clarifications. The underlying problem is how the system is treating ambiguity of language. 
-
-Richard Feynman - "I am smart enough to know that I am dumb." 
-
-Hallucinations - Confidently answering wrong.
-- Wrong answers are fine because they are better than no answer in solving a problem. 
-- SOMETIMES You can iterate on top of the wrong answer to arrive eventually to the correct answer.
-	- On difficult complex problems can get stuck, more details and context does not unblock the model, and iterations cannot continue progress.
-
-# Day > Iteration
-
-# Iteration 4 - Knowing versus Solving
-
-LLMs don't know what they don't know. 
-
-Asking a human: "Do you know X?". A human will answer:
-- I don't know X ( more like a feeling )
-- I don't know X now to describe, but I know a place where I can find it
-- I know X
-	- Recalling it from memory. 
-	- I know that I knew X in the past, but I forgot it. But I know how to find it out. When I find I would have a high confidence in its truth. ( feeling for a human )
-- I can try to find what X is
-- I can try to build X 
-
-Problem Solving - of difficult complex scenarios which AI models can't solve yet require cognitive skills which we are also using during the development of the project. We will pay attention to the methods and skills of the thinking used in trying to solve this problem, we will make them explicit, than we will add those during the development of the system. 
-- Experiments should be the engine of discovery and Creativity for difficult problems, propose an assumption or a theory and than try to prove it wrong. Falsifiable theory that you test.
+Details
 
 
 --- 
 
 TODO List:
 - Figure out the architecture of the system
-- Review first 4 days organize the ideas 
+- Clarify and improve the goal
+- Explore the PDF model 
+- Integrate day 3 and 4
