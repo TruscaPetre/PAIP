@@ -48,3 +48,11 @@ Problem Solving - of difficult complex scenarios which AI models can't solve yet
 #ThinkingPrinciple 
 For the purpose of integrating new ideas into the structure of the project we are doing : Review the ideas which we have collected during the idea gathering phase. For example brainstorming, field research, sota research, review papers of the field, and so on. 
 
+## Iteration 6 - 
+Apple example of the tower of hanoi. I may be wrong. But the idea is that the model gives the most popular answer in the dataset instead of the "best answer". 
+An example - in software development, if you use generative AI for creating code, many times you have to review and edit the code yourself. 
+
+#FirstPrinciple
+I want the system to be able to debug software, build software. 
+#FirstPrinciple 
+The system will answer the questions of the user in language if prompted.

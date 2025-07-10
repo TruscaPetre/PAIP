@@ -11,8 +11,16 @@
 	- Addressed a little bit by in context learning, but if the problem is too complex the system breaks
 - Creativity is limited
 - Trying new ways to approach a problem, never tried by anyone
+- Stopping criteria for providing an answer is not sufficient. Stopping answering even if improvements can be made to the answer
+- Doesn't know what it doesn't know, and tries to give answers even if it cannot - hallucinations
+- Getting stuck in back and forth user interactions
+	- Not being able to explain our problem in such a way that we get what we want out of the system. Ie The system is not capable of understanding the problem such that it can solve and deliver what the user wants.
 
-## Theories about how revolutionize
+## Principles for AI thinking
+- Making mistakes even if giving wrong answers, being able to iterate on those and improve the answers, instead of doing one shot on the problem
+	- This already a little bit addressed by OpenAI o1 and o3, deepseek r1 kind of models, so called reasoning models
+
+## Theories about how to revolutionize
 Working memory of humans is very limited, but context window, is very large for LLMs. Humans have developed other skills to deal with difficult problems which require a larger working memory. Those other skills, are like:
 - abstraction allow us to solve problems which LLMs can't solve, 
 	- deconstruction of the problem into smaller problems which are easier to solve
