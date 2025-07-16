@@ -56,3 +56,16 @@ An example - in software development, if you use generative AI for creating code
 I want the system to be able to debug software, build software. 
 #FirstPrinciple 
 The system will answer the questions of the user in language if prompted.
+
+## Iteration 7
+When we are integrating new ideas into a structure. We gain some benefits for dealing with those ideas. 
+- Knowing what ideas to ignore and what ideas are important. 
+- Faster navigate the text/content, to find things faster, to search for them. 
+- It easier communicate the main ideas
+- Avoid getting lost in the details 
+
+When integrate ideas into a model, the model gets better. 
+
+LLMs perform a needle in a haystack. Instead of requiring a structure in the text they have to process.
+
+Humans escape the loop of getting stuck doing the same thing because they get bored. 
