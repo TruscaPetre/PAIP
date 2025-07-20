@@ -1,7 +1,8 @@
-[Petre's AI Project - YouTube](https://www.youtube.com/@P.A.I.P)
+# Welcome Fellow Science Heretics!
+My youtube channel: [Petre's AI Project - YouTube](https://www.youtube.com/@P.A.I.P)
 
+This project is based on Obsidian editor. Use it in your fork.
 [[Everyday Logs]]
-
 ## Goal
 - Revolutionize AI by thinking from first principles
 - Eliminate the Problems, Limitations of current systems
@@ -24,10 +25,17 @@
 	- They don't get bored
 - Sycophant
 
-## Principles for AI thinking
-- Making mistakes even if giving wrong answers, being able to iterate on those and improve the answers, instead of doing one shot on the problem
-	- This already a little bit addressed by OpenAI o1 and o3, deepseek r1 kind of models, so called reasoning models
+## Principles for AI thinking, Metacognitive skills
+
+#FirstPrinciple
+
+- Making experiments
+	- We try things because we can't know the outcome for sure, so in the process of pursuing a new thing which we don't know how will turn out in the end, we can discover new things.
+		- Potentially overcoming the limitation of creativity of LLMs
+	- Making mistakes even if giving wrong answers, being able to iterate on those and improve the answers, instead of doing one shot on the problem
+		- This already a little bit addressed by OpenAI o1 and o3, deepseek r1 kind of models, so called reasoning models
 - Looking at ideas with fresh eyes after some time.
+- 
 
 ## Theories about how to revolutionize
 Working memory of humans is very limited, but context window, is very large for LLMs. Humans have developed other skills to deal with difficult problems which require a larger working memory. Those other skills, are like:
@@ -57,14 +65,16 @@ TODO List:
 - Figure out the architecture of the system
 - Clarify and improve the goal
 - Explore the PDF model
-- Integrate day 4 - paragraph 2
 - Integrate day 5
-- Explain what is a #FirstPrinciple
+- Read my notes about first principles and bring them into a next iteration - maybe iteration 10
 
 --- 
 
 Iteration Structure
 - General Thoughts
+- Create a new iteration in [[Everyday Logs]]
 - Integrate the last previous iteration
+	- Metacognitive skills used in the development of PAIP become skills of the AI system we create
 - Any new thoughts that come up in the iteration at the moment add new notes for them
+- Add todos for next ideas
 - Start some practical software development

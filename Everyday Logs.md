@@ -75,3 +75,18 @@ Humans escape the loop of getting stuck doing the same thing because they get bo
 Humans prefer to see a small part of the project or any text materials and prefer to see that part at the same level of abstraction. Because we a very limited working memory. Maybe this skill and other skills that humans use to handle a large text, are not only useful for humans to work with complex knowledge, but they could also be absolutely necessary for LLMs to further increase their performance. 
 
 LLMs take things to extreme, for example: staying unbiased taken to extreme makes you lazy, having unlimited energy taken to extreme makes you stay stuck in doing the same thing which is failing. Maybe we can let go of taking things to extreme by the system. Instead of manually explaining the behavior of the system, there should be an internal regulating system, like homeostasis based on many external perceptions. 
+
+## Iteration 9 - What are first principles
+
+Sometimes human come up with more ideas and better ideas make easier connections if we eliminate possible predictions for a solution instead of looking for the correct solution. 
+eg: when you a multiple choice test, 
+Through negation, inverting the problem the problem. 
+
+### First principles
+Having a lot of examples, and those examples are contrastive, not identical examples. If you filter out the differences between the examples, and you are left only with essence, that is a first principle.
+
+"Always?" - "Is this always true?"
+- If you find Exceptions in an explanation/idea => not a first principle
+- You can't find an exception, you can't find a contradiction, you can't take it into a context where it becomes false, taking it to extreme still doesn't make it false => a first principle in a more general and perfect sense and absolute
+	- Even if you find ways in which something is sometimes false, but those never occur in reality and in practical that => we need just practical first principles
+
