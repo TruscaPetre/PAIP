@@ -6,7 +6,7 @@
 - Revolutionize AI by thinking from first principles
 - Eliminate the Problems, Limitations of current systems
 
-## Limitations & Problems of existing systems
+## Limitations & Problems of existing systems (LLMs)
 - Creativity is limited
 	- The capability of the system is bounded by the training dataset
 		- Addressed a little bit by in context learning, but if the problem is too complex the system breaks
@@ -16,6 +16,9 @@
 - Not Treating ambiguity with asking questions
 - Hallucinations
 	- Doesn't know what it doesn't know, and tries to give answers even if it cannot
+	- Failed solution to hallucinations, is that the style of the answer is forcefully "nuanced"
+		- Consequence is that LLMs become lazy and they just all the possible answers(good and bad) and let the user decide for himself.
+		- Failing to answer obvious questions because of trying to remain unbiased. 
 - Getting stuck in back and forth user interactions
 	- Not being able to explain our problem in such a way that we get what we want out of the system. Ie The system is not capable of understanding the problem such that it can solve and deliver what the user wants.
 	- They don't get bored
@@ -54,5 +57,14 @@ TODO List:
 - Figure out the architecture of the system
 - Clarify and improve the goal
 - Explore the PDF model
-- Integrate day 4
+- Integrate day 4 - paragraph 2
+- Integrate day 5
 - Explain what is a #FirstPrinciple
+
+--- 
+
+Iteration Structure
+- General Thoughts
+- Integrate the last previous iteration
+- Any new thoughts that come up in the iteration at the moment add new notes for them
+- Start some practical software development

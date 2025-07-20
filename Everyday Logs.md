@@ -48,7 +48,7 @@ Problem Solving - of difficult complex scenarios which AI models can't solve yet
 #ThinkingPrinciple 
 For the purpose of integrating new ideas into the structure of the project we are doing : Review the ideas which we have collected during the idea gathering phase. For example brainstorming, field research, sota research, review papers of the field, and so on. 
 
-## Iteration 6 - 
+## Iteration 6 - Review and Integrate
 Apple example of the tower of hanoi. I may be wrong. But the idea is that the model gives the most popular answer in the dataset instead of the "best answer". 
 An example - in software development, if you use generative AI for creating code, many times you have to review and edit the code yourself. 
 
@@ -57,7 +57,7 @@ I want the system to be able to debug software, build software.
 #FirstPrinciple 
 The system will answer the questions of the user in language if prompted.
 
-## Iteration 7
+## Iteration 7 - Metacognitive abilities
 When we are integrating new ideas into a structure. We gain some benefits for dealing with those ideas. 
 - Knowing what ideas to ignore and what ideas are important. 
 - Faster navigate the text/content, to find things faster, to search for them. 
@@ -69,3 +69,9 @@ When integrate ideas into a model, the model gets better.
 LLMs perform a needle in a haystack. Instead of requiring a structure in the text they have to process.
 
 Humans escape the loop of getting stuck doing the same thing because they get bored. 
+
+## Iteration 8 - Metacognitive skills
+
+Humans prefer to see a small part of the project or any text materials and prefer to see that part at the same level of abstraction. Because we a very limited working memory. Maybe this skill and other skills that humans use to handle a large text, are not only useful for humans to work with complex knowledge, but they could also be absolutely necessary for LLMs to further increase their performance. 
+
+LLMs take things to extreme, for example: staying unbiased taken to extreme makes you lazy, having unlimited energy taken to extreme makes you stay stuck in doing the same thing which is failing. Maybe we can let go of taking things to extreme by the system. Instead of manually explaining the behavior of the system, there should be an internal regulating system, like homeostasis based on many external perceptions. 
