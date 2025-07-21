@@ -90,3 +90,15 @@ Having a lot of examples, and those examples are contrastive, not identical exam
 - You can't find an exception, you can't find a contradiction, you can't take it into a context where it becomes false, taking it to extreme still doesn't make it false => a first principle in a more general and perfect sense and absolute
 	- Even if you find ways in which something is sometimes false, but those never occur in reality and in practical that => we need just practical first principles
 
+## Iteration 10 - Confidence, Complexity, Abstraction
+
+ChatGPT, sometimes goes and searches the web before answering an idea, but sometimes it is able to just come with an answer. That must be based somehow in a confidence metric for answering the question correctly. 
+The concept of confidence should exist in a system to give better answers. Even if better means "I don't know". 
+
+Complexity is something that humans struggle with. Humans use techniques to manage the complexity of a problem. This is really obvious in programming. Maybe the most important concept in software engineering is managing layers of abstraction. We hide the complexity in abstractions and only deal with a few components which are necessary for the part of the system that we want to build at the moment. 
+We can navigate those layers of abstraction, and make incremental progress by hiding what is not necessary at the moment. Because of our limited working memory, we forget, it is outside of our working memory everything that is not necessary at the moment to make a tiny increment in the progress of the problem. 
+
+LLMs keep everything in the working memory in the context window. They don't have to deal with abstraction layers. So maybe because they don't use those abstraction layers, they fail to solve problems that humans can. 
+
+
+
