@@ -58,7 +58,7 @@ I want the system to be able to debug software, build software.
 The system will answer the questions of the user in language if prompted.
 
 ## Iteration 7 - Metacognitive abilities
-When we are integrating new ideas into a structure. We gain some benefits for dealing with those ideas. 
+When we are integrating new ideas into a structure. We gain some benefits for dealing with those ideas as humans. 
 - Knowing what ideas to ignore and what ideas are important. 
 - Faster navigate the text/content, to find things faster, to search for them. 
 - It easier communicate the main ideas
@@ -85,7 +85,7 @@ Through negation, inverting the problem the problem.
 ### First principles
 Having a lot of examples, and those examples are contrastive, not identical examples. If you filter out the differences between the examples, and you are left only with essence, that is a first principle.
 
-"Always?" - "Is this always true?"
+***"Always?" - "Is this always true?"***
 - If you find Exceptions in an explanation/idea => not a first principle
 - You can't find an exception, you can't find a contradiction, you can't take it into a context where it becomes false, taking it to extreme still doesn't make it false => a first principle in a more general and perfect sense and absolute
 	- Even if you find ways in which something is sometimes false, but those never occur in reality and in practical that => we need just practical first principles
@@ -100,5 +100,11 @@ We can navigate those layers of abstraction, and make incremental progress by hi
 
 LLMs keep everything in the working memory in the context window. They don't have to deal with abstraction layers. So maybe because they don't use those abstraction layers, they fail to solve problems that humans can. 
 
+## Iteration 11
 
+#TODO How do we build and abstraction? What part of the content do you hide? How much of it do you hide? 
+- We should think about first principles, taking a lot of examples, and selecting only the common part among them, and what remains are details that can be hidden by an abstraction. 
+
+Testing is an essential part of thinking, and when ideas are tested, the goal is used to validate the test. If the proposal makes the solution get closer to the goal, than it "passes the test".
+IE, ***"Is this useful?"***
 

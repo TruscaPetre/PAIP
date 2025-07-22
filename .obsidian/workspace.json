@@ -6,6 +6,7 @@
       {
         "id": "03237c5e90dbb88e",
         "type": "tabs",
+        "dimension": 53.06490384615385,
         "children": [
           {
             "id": "cc4b011ade8b6e81",
@@ -26,6 +27,7 @@
       {
         "id": "62b687768f95a619",
         "type": "tabs",
+        "dimension": 46.93509615384615,
         "children": [
           {
             "id": "9152541d7dfa8480",
@@ -189,10 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc4b011ade8b6e81",
+  "active": "9152541d7dfa8480",
   "lastOpenFiles": [
-    "Everyday Logs.md",
     "README.md",
+    "Everyday Logs.md",
     "README.md.md"
   ]
 }
